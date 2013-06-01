@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ryu
 title: life's lightleaks
 ---
 
@@ -8,60 +8,21 @@ title: life's lightleaks
         <h1>Matthew Bull</h1>
         <p>web design and photography</p>
     
-    
-        <p class="view"><a href="https://github.com/matthew-bull">View My GitHub Profile</a></p>
-        <div class="contact">
-            <p>
-                Your Name<br />
-                What You Are<br />
-                your@email.com
-            </p>
-        </div>
-        <div class="contact">
-            <p>
-            <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
-            <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
-            </p>
-        </div>
+
     </header>
     
     <section>
-        <h3>Welcome to my homepage.</h3>
     
-        <p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-    
-        <pre>
-            <code>
-                $ cd your_repo_root/repo_name
-                $ git fetch origin
-                $ git checkout gh-pages
-            </code>
-        </pre>
-        
-        <p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-    
-        <pre>
-            <code>
-                $ cd your_repo_root/repo_name
-                $ git fetch origin
-                $ git checkout gh-pages
-            </code>
-        </pre>
-        
-        <p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-    
-        <pre>
-            <code>
-                $ cd your_repo_root/repo_name
-                $ git fetch origin
-                $ git checkout gh-pages
-            </code>
-        </pre>
-    
-    </section>
-    
-    <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <ul>
+          {% for post in site.posts %}
+            <li>
+              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <div>{{ post.excerpt }}</div>
+            </li>
+          {% endfor %}
+        </ul>
+
+        <footer>
         <div class="contact">
                 <p>
                   Your Name<br />
@@ -76,5 +37,9 @@ title: life's lightleaks
                 </p>
               </div>
     </footer>
+    
+    </section>
+    
+    
     
 </div>
