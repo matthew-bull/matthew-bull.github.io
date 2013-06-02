@@ -3,43 +3,33 @@ layout: ryu
 title: life's lightleaks
 ---
 
-<div class="wrapper">
-    <header>
+<header>
+    <div class="header-text">
         <h1>Matthew Bull</h1>
-        <p>web design and photography</p>
-    
+        <h2>web design and photography</h2>
+        <ul>
+            <li>tumblr</li>
+            <li>twitter</li>
+        </ul>
+    </div>
+</header>
 
-    </header>
-    
-    <section>
-    
+<section>
+    <div class="post-list">
         <ul>
           {% for post in site.posts %}
             <li>
-              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-              <div>{{ post.excerpt }}</div>
+              <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+              <p class="post-date">{{ post.date | date_to_long_string }}</p>
+              <div class="post-excerpt">{{ post.excerpt }}</div>
             </li>
           {% endfor %}
         </ul>
 
         <footer>
-        <div class="contact">
-                <p>
-                  Your Name<br />
-                  What You Are<br />
-                  your@email.com
-                </p>
-              </div>
-              <div class="contact">
-                <p>
-                  <a href="http://github.com/yourusername/">github.com/yourusername</a><br />
-                  <a href="http://twitter.com/yourusername/">twitter.com/yourusername</a><br />
-                </p>
-              </div>
-    </footer>
+            <p>design by matthew bull . hosted by github</p> 
+        </footer>
+    </div>
+
+</section>
     
-    </section>
-    
-    
-    
-</div>
