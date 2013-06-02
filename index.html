@@ -3,10 +3,10 @@ layout: ryu
 title: life's lightleaks
 ---
 
-<header>
+<header class='front-page-header'>
     <div class="header-text">
         <h1>Matthew Bull</h1>
-        <h2>web design and photography</h2>
+        <h2>{{ page.title }}</h2>
         <ul>
             <li>tumblr</li>
             <li>twitter</li>
@@ -14,8 +14,8 @@ title: life's lightleaks
     </div>
 </header>
 
-<section>
-    <div class="post-list">
+<section class='front-page-section'>
+    <div class="post-list post">
         <ul>
           {% for post in site.posts %}
             <li>
@@ -26,9 +26,8 @@ title: life's lightleaks
           {% endfor %}
         </ul>
 
-        <footer>
-            <p>design by matthew bull . hosted by github</p> 
-        </footer>
+        {% include footer.md %}
+        
     </div>
 </section>
     

@@ -17,11 +17,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font:36px;
+  font-size:36px;
 }
 
 p, ul, ol, table, pre, dl {
-  /*margin:0 0 20px;*/
 }
 
 h2, h3 {
@@ -101,13 +100,14 @@ img {
 
 ul {
   padding: 0;
+  margin: 0;
 }
 
 li {
   list-style: none;
 }
 
-header {
+.front-page-header {
   float:left;
   position:fixed;
   background-image: url(http://i1.wp.com/matthewbullphoto.com/files/2013/02/IMG_0188_800.jpg);
@@ -115,34 +115,67 @@ header {
   top: 0;
   left: 0;
   width: 38%;
-/*width: 200px;*/
   height: 100%;
   max-width: 500px;
   color: #fff;
-  /*padding: 50px 0 0 50px;*/
-/*  background-position: center;
-  background-size: cover;*/
+  background-position: center;
+  background-size: cover;
 }
 
-header .header-text {
-  padding:50px;
-}
-
-section {
+.front-page-section {
   width:62%;
   float:right;
 }
 
-section .post-list {
+.header-text {
   padding:50px;
 }
 
-section .post-list li {
+.post-page-header {
+  float:left;
+  position:fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  width: 15%;
+  height: 100%;
+  max-width: 100px;
+  color: #000;
+  background-position: center;
+  background-size: cover;
+}
+.post-page-section {
+  width: 85%;
+  float:right;
+  font-size: 24px;
+}
+
+.post-page-section h2 {
+  font-size:46px;
+}
+
+.post {
+  padding: 50px;
+}
+
+.post-comment-link {
+  font-size: 14px;
+}
+
+footer {
+  font-style: italic;
+  color: #ff0000;
+  font-size: 14px;
+  padding: 0;
+  margin: 0 0 10px 0;
+}
+
+.post-list li {
   border-bottom: 1px solid #eee;
   margin-bottom: 30px;
 }
 
-section .post-list .post-date {
+.post-date {
   font-style: italic;
   color: #ccc;
   font-size: 14px;
@@ -150,7 +183,7 @@ section .post-list .post-date {
   margin: 0 0 10px 0;
 }
 
-section .post-list .post-excerpt {
+.post-excerpt {
 }
 
 strong {
