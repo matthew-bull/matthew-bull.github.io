@@ -4,8 +4,11 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ site.title }} - {{ site.tagline }} - {{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="I'm a web developer and photographer (the two seem to go together) with an interest in design.">
+
+        <!-- bootstrap grid, layout, and reset -->
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
@@ -16,11 +19,7 @@
     </head>
     <body>
 
-        <div class="container">
-          <div class="site">
-            {{ content }}
-          </div>
-        </div> <!-- /container -->
+        {{ content }}
         
         <!-- javascript -->
         <script src="js/scale.fix.js"></script>
