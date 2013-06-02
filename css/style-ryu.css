@@ -130,6 +130,11 @@ li {
   background-size: cover;
 }
 
+.front-page-header h1 {
+  color: #ff0000;
+  font-size: 46px;
+}
+
 .front-page-section {
   width:62%;
   float:right;
@@ -137,6 +142,10 @@ li {
 
 .header-text {
   padding:50px;
+}
+
+.post-page-header h1 {
+  font-size:46px;
 }
 
 .post-page-header {
@@ -147,7 +156,7 @@ li {
   left: 0;
   width: 15%;
   height: 100%;
-  max-width: 100px;
+  max-width: 150px;
   color: #000;
   background-position: center;
   background-size: cover;
@@ -164,7 +173,9 @@ li {
 }
 
 .post {
-  padding: 50px;
+  max-width: 800px;
+  margin: 50px auto 50px auto;
+  padding: 0 200px 0 50px;
 }
 
 .post-comment-link {
@@ -245,10 +256,12 @@ hr {
     border: none;
   }
   .post {
-    padding: 30px;
+    margin: 0;
+    padding: 50px;
   }
   .header-text {
-    padding: 30px;
+    margin: 0;
+    padding: 50px;
   }
 }
 
