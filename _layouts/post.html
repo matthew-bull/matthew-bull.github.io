@@ -13,17 +13,19 @@ layout: ryu
 </header>
 
 <section class='post-page-section'>
-	<div class='post'>
-		<h2>{{ page.title }}</h2>
-		<p class='post-date'>{{ page.date | date_to_long_string }}</p>
-
+	<article class='post'>
+		<header>
+            <h2>{{ page.title }}</h2>
+    		<p class='post-date'>{{ page.date | date_to_long_string }}</p>
+        </header>
+        
 		{{ content }}
 
 		{% include disqus.md %}
 
 		{% include footer.md %}
 
-    </div>
+    </article>
 </section>
 
 <!-- disqus -->
