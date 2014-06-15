@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[http://gnozu.github.io/]() - this cv, and more!
+[http://matthew-bull.github.io/]() - this cv, and more!
 
 [https://github.com/unikent]() - I have contributed heavily to a number of open and private github projects as `gnozu` and `mb324-unikent`. Particularly notable are [https://github.com/unikent/programmes-plant]() and [https://github.com/unikent/of-course]()
 
