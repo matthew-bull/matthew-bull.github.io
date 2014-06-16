@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Matthew Bull: CV"
+title: CV
 ---
 
 ## UX / DESIGN EXPERIENCE
