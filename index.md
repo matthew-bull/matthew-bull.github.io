@@ -5,23 +5,23 @@ title: "Matthew Bull: CV"
 
 ## UX / DESIGN EXPERIENCE
 
-- **Part-time UX Developer** role in my team since early 2014.
+- **UX role** alongside a frontend development role in my team since early 2014.
 - **Discovery phase**. User interviews, persona development, storyboarding.
 - **Alpha phase**. Simple wireframing and sketching (a pencil and paper are probably the most important tools!) Photoshop, Pixelmator, building markup quickly with Bootstrap and CSS3+Less.
-- **Pattern libraries**. I helped instigate a work-in-progress pattern library for a new University of Kent web theme. See [https://github.com/unikent/user-experience](https://github.com/unikent/user-experience).
+- **Pattern libraries**. I helped instigate a work-in-progress pattern library for a new University of Kent web theme. See [github.com/unikent/user-experience](https://github.com/unikent/user-experience).
 - **Analysis**. Experience with simple A/B testing and analysis of user journeys in Google Analytics.
-- **Accessibility**. Implementing WCAG 2.0. Followed the Google web accessibility course. See [https://webaccessibility.withgoogle.com/](https://webaccessibility.withgoogle.com/)
+- **Accessibility**. Implementing WCAG 2.0. Followed the Google web accessibility course. See [webaccessibility.withgoogle.com/](https://webaccessibility.withgoogle.com/)
 
 ## UX TRAINING & COURSES
 
 - *Creation of Artifacts in Society*. Coursera course (from the University of Pennsylvania) on product design processes. Distinction (>90%). Certificate at [{{ site.url }}/coursera-design.pdf]({{ site.url }}/coursera-design.pdf).
 - *Human-Computer Interaction*. Coursera course. University of California, San Diego. Current.
-- *Agile Development and User Experience: Integrating user experience best practices into Agile or Lean processes*. Nielsen Norman Usability Week, London, June 4 2014. See [http://www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/) for further details.
+- *Agile Development and User Experience: Integrating user experience best practices into Agile or Lean processes*. Nielsen Norman Usability Week, London, June 4 2014. See [www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/) for further details.
 - Certified Agile Scrum Master.
 
 ## DEVELOPMENT EXPERIENCE
 
-- HTML5, CSS3 + less, PHP, Wordpress development.
+- HTML5, CSS3 + less, PHP, Bootstrap 3, Device agnostic / mobile first development. Wordpress development.
 - jquery, backbone, nodejs, grunt, composer, bower.
 - XML and JSON API web services.
 - PHPUnit, Selenium. Linux. Vagrant virtual environments. Capistrano deployment scripts.
