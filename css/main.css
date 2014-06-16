@@ -38,6 +38,7 @@ a:visited { color: #205caa; }
 
 .site-header {
   border-top: 5px solid #ff0000;
+  height:60px;
 }
 
 .site-header a { text-decoration: none; }
