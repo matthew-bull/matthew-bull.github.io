@@ -55,6 +55,7 @@ The ability to **learn from others** in the UX team is something I look forward 
 - Design as Art by Bruno Munari. A classic book about design.
 - The Shape of Design. Frank Chimero. A beautiful book which looks at movement, audience, and culture in design.
 - The Language of Things. Deyan Sudjic. A look at our relationship with objects and design.
-- Going to the Design Museum ([designmuseum.org](http://designmuseum.org)) and other galleries and exhibitions from time to time! I think it's important to understand the role of design more broadly in society if you're going to understand what makes a website work for people.
+- Going to the Design Museum ([designmuseum.org](http://designmuseum.org)) and other galleries and exhibitions from time to time. I think it's important to understand the role of design more broadly in society if you're going to understand what makes a website work for people.
+- My favourite design object is a pencil.
 
 
