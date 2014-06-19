@@ -16,7 +16,7 @@ The past six months in particular have seen me working in a **part-time UX capac
 
 Recent projects have also given me the chance to contribute to UX processes such as **persona development**, **sketching**, **prototyping**, **need-finding**, **user-testing**, **data analysis** and **user journeys**.
 
-### Mobile first
+### Mobile first
 
 Device agnostic design is now a standard for all work I am involved in.
 
