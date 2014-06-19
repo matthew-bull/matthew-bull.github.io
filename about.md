@@ -28,7 +28,7 @@ This role is advertised as being part of a UX virtual team. I feel that I would 
 
 I am able to understand design with a developer's brain, while viewing development with a designer's eye.
 
-More recently I have become interested in implementing **Lean UX processes**. These follow the ideas of rapid prototyping, fail-fast development, with very clear focus on outcomes rather than features. I hope to be able to bring some of these ideas to the UX virtual team, as well as to other development teams. I feel my background in development will help in conveying and moulding UX best practice to the needs of developers.
+More recently I have become interested in implementing **Lean UX processes**. These follow the ideas of rapid prototyping, fail-fast development, gaining frequent feedback from users, with a very clear focus on outcomes rather than features. I hope to be able to bring some of these ideas to the UX virtual team, as well as to other development teams in Information Services. I feel my background in development will help in conveying and moulding UX best practice to the needs of developers.
 
 I hope to be able to **learn from others** in the UX team. For example pooling resources for user-testing and need-finding across the team would be a good idea, and I know I would have plenty to learn from others in this regard.
 

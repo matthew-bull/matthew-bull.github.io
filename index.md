@@ -5,9 +5,10 @@ title: CV
 
 ## UX / DESIGN EXPERIENCE
 
-- **UX role** alongside a frontend development role in my team since early 2014.
+- **UX role** combined with a frontend development role in my team since early 2014.
 - **Discovery phase**. User interviews, persona development, storyboarding.
-- **Alpha phase**. Simple wireframing and sketching (a pencil and paper are probably the most important tools!) Photoshop, Pixelmator, building markup quickly with Bootstrap and CSS3+Less.
+- **Alpha phase**. Simple wireframing and sketching (a pencil and paper are the most important tools!) Photoshop, Pixelmator, building markup quickly with Bootstrap and CSS3+Less.
+- **User testing**. Assisted in both formal and guerrilla user testing.
 - **Pattern libraries**. I helped instigate a work-in-progress pattern library for a new University of Kent web theme. See [github.com/unikent/user-experience](https://github.com/unikent/user-experience).
 - **Analysis**. Experience with simple A/B testing and analysis of user journeys in Google Analytics.
 - **Accessibility**. Implementing WCAG 2.0. Followed the Google web accessibility course. See [webaccessibility.withgoogle.com/](https://webaccessibility.withgoogle.com/)
