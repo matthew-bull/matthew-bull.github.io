@@ -4,13 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## Experience
-
-I am a web developer with 10 years' experience of PHP, javascript, HTML and CSS.
-
 ### UX
 
-The past year has seen a shift for me toward a **user-centered approach to development and design**, with a greater emphasis on providing usefulness and usability in web design.
+I am a web developer with 10 years' experience of PHP, javascript, HTML and CSS. The past year has seen a shift for me toward a **user-centered approach to development and design**, with a greater emphasis on providing usefulness and usability in web design.
 
 The past six months in particular have seen me working in a **part-time UX capacity**, alongside my frontend development role. This has given me the chance to participate in planning a UX strategy, writing blog posts about user-centered design (see [blogs.kent.ac.uk/webdev/category/user-centered-services/](http://blogs.kent.ac.uk/webdev/category/user-centered-services/)), and starting to build a UX website.
 
@@ -18,7 +14,7 @@ Recent projects have also given me the chance to contribute to UX processes such
 
 ### Mobile first
 
-Device agnostic design is now a standard for all work I am involved in.
+Device agnostic design is now a standard for all work I am involved in. I have been using frameworks such as Boostrap 3 to design device agnostic sites from the ground up.
 
 ### Agile
 
@@ -49,7 +45,7 @@ The ability to **learn from others** in the UX team is something I look forward 
 
 *Agile Development and User Experience: Integrating user experience best practices into Agile or Lean processes*. Nielsen Norman Usability Week, London, June 4 2014. See [www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/) for further details.
 
-## Favourite resources
+## Resources and links
 
 - [smashingmagazine.com](http://www.smashingmagazine.com/). A great resource for UX and frontend developers.
 - Design as Art by Bruno Munari. A classic book about design.
@@ -57,5 +53,5 @@ The ability to **learn from others** in the UX team is something I look forward 
 - The Language of Things. Deyan Sudjic. A look at our relationship with objects and design.
 - Going to the Design Museum ([designmuseum.org](http://designmuseum.org)) and other galleries and exhibitions from time to time. I think it's important to understand the role of design more broadly in society if you're going to understand what makes a website work for people.
 - My favourite design object is a pencil. My favourite design website is [medium.com](http://medium.com)
-
+- The source code for my CV and this page are available at [https://github.com/matthew-bull/matthew-bull.github.io](https://github.com/matthew-bull/matthew-bull.github.io)
 

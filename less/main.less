@@ -1,0 +1,347 @@
+/* Base */
+/* ----------------------------------------------------------*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: rgba(0,0,0,0.8);
+}
+
+a         { color: #000; text-decoration: none; border-bottom: 1px solid #ccc; }
+a:hover   { color: #000; text-decoration: none; border-bottom: 1px solid #ff0000; }
+a:visited { color: #000; }
+
+/* Utility */
+
+.wrap:before,
+.wrap:after { content:""; display:table; }
+.wrap:after { clear: both; }
+.wrap {
+  max-width: 800px;
+  padding: 0 30px;
+  margin: 0 auto;
+  zoom: 1;
+}
+
+
+/* Layout Styles */
+/* ----------------------------------------------------------*/
+
+/* Site header */
+
+.site-header {
+  border-top: 5px solid #ff0000;
+  height:60px;
+}
+
+.site-header a { text-decoration: none; border: none;}
+.site-header a:hover   { text-decoration: underline; border: none;}
+
+.site-title,
+.site-title:hover,
+.site-title:visited {
+  display: block;
+  color: #333;
+  float: left;
+  line-height: 56px;
+  position: relative;
+  z-index: 1;
+  text-transform: uppercase;
+}
+
+.site-nav {
+  float: right;
+  line-height: 56px;
+}
+
+.site-nav .menu-icon { display: none; }
+
+.site-nav .page-link {
+  margin-left: 20px;
+  color: #000;
+}
+
+/* Site footer */
+
+.site-footer {
+  border-top: 1px solid #ff0000;
+  padding: 30px 0;
+  background-color: #fcfcfc;
+  font-size: 80%;
+}
+
+.site-footer a {
+  border-bottom: none;
+}
+
+.footer-heading {
+  margin-bottom: 15px;
+}
+
+.site-footer ul { list-style: none; }
+
+.site-footer li,
+.site-footer p {
+  color: #828282;
+}
+
+.github-icon-svg,
+.twitter-icon-svg {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  position: relative;
+  top: 3px;
+}
+
+
+/* Page Content styles */
+/* ----------------------------------------------------------*/
+
+.page-content {
+  padding: 0;
+  background-color: #fff;
+  padding:30px 0 50px 0;
+}
+
+
+/* Home styles */
+/* ----------------------------------------------------------*/
+
+.home h1 { margin-bottom: 25px; }
+
+.posts { list-style-type: none; }
+
+.posts li { margin-bottom: 30px; }
+
+.posts .post-link {
+}
+
+.posts .post-date {
+}
+
+
+/* Post styles */
+/* ----------------------------------------------------------*/
+
+.post pre,
+.post code {
+  border: 1px solid #d5d5e9;
+  background-color: #eef;
+  padding: 8px 12px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.post code { padding: 1px 5px; }
+
+.post pre code { border: none; }
+
+/* terminal */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.post pre.terminal code { background-color: #333; }
+
+.post-header { margin: 10px 0 30px; }
+
+.post-header {display: none;}
+
+.post-header .meta {
+  color: #818181;
+  margin-top: 5px;
+}
+
+.post-header ul {
+  list-style: none;
+  margin: 0;
+}
+
+.post-header li,
+.post-header p {
+}
+
+.post-content ul,
+.post-content ol {
+  list-style-type: none;
+}
+
+.post-content li:before {
+  content: '\f111' /*fontawesome char code inside the ''*/;
+  font-family: FontAwesome; /* or whatever */
+  font-size: 0.3em;
+  position: relative;
+  bottom: 4px;
+  margin-right: 10px;
+  color: #ff0000;
+}​
+
+
+.post-content { margin: 0 0 30px; }
+
+.post-content > * { margin: 20px 0; }
+
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+  line-height: 1;
+  margin: 40px 0 0 0;
+}
+
+h1 {
+  font-size: 26px;
+  margin: 10px 0 0 0;
+  font-weight: bold;
+}
+
+.post-content h2 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.post-content h3 {
+  font-size: 22px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.post-content h4 {
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.post-content blockquote {
+  border-left: 4px solid #e8e8e8;
+  padding-left: 20px;
+  opacity: .6;
+  font-style: italic;
+  margin: 30px 0;
+}
+
+.post-content ul,
+.post-content ol { padding-left: 0px; }
+
+
+/* media queries */
+/* ----------------------------------------------------------*/
+
+
+@media screen and (max-width: 750px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+  .wrap { padding: 0 12px; }
+
+  .site-nav {
+    position: fixed;
+    z-index: 10;
+    top: 14px; right: 8px;
+    background-color: white;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #e8e8e8;
+  }
+
+  .site-nav .menu-icon {
+    display: block;
+    font-size: 24px;
+    color: #505050;
+    float: right;
+    width: 36px;
+    text-align: center;
+    line-height: 36px;
+  }
+
+  .site-nav .menu-icon svg { width: 18px; height: 16px; }
+
+  .site-nav .trigger {
+    clear: both;
+    margin-bottom: 5px;
+    display: none;
+  }
+
+  .site-nav:hover .trigger { display: block; }
+
+  .site-nav .page-link {
+    display: block;
+    text-align: right;
+    line-height: 1.25;
+    padding: 5px 10px;
+    margin: 0;
+  }
+
+  .post-content blockquote { padding-left: 10px; }
+  .post-content ul,
+  .post-content ol { padding-left: 10px; }
+
+}
+
+
+@media print {
+  body {
+    font-size: 125%;
+  }
+  .post-content h2 {
+    font-size: 100%;
+  }
+  a         { color: #000; text-decoration: none; border-bottom: 1px solid #ccc; }
+  a:hover   { color: #000; text-decoration: none; border-bottom: 1px solid #ff0000; }
+  a:visited { color: #000; }
+  .site-header, .site-footer {display: none;}
+  .page-content {
+    border-top: 3px solid #ff0000;
+    padding-top: 20px;
+  }
+
+  .post-content li:before {
+    font-size: 4px;
+    position: relative;
+    bottom: 3px;
+  }​
+
+  .post-header {display: block;}
+  .post-header h1, .post-header h2 {float: left;text-transform: uppercase;}
+  .post-header ul {display: block; text-align: right;}
+  .post-content { margin: 0 0 10px; }
+  .post-content > * { margin: 10px 0; }
+  .post-content h1,
+  .post-content h2,
+  .post-content h3,
+  .post-content h4,
+  .post-content h5,
+  .post-content h6 {
+    line-height: 1;
+    margin: 20px 0 10px 0;
+  }
+  .post-content h1 {
+    margin: 10px 0 0 0;
+    font-weight: 300;
+  }
+
+}
+
