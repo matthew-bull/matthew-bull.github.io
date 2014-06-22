@@ -18,9 +18,9 @@ The ability to **learn from others** in the UX team is something I look forward 
 
 ## UX background
 
-I am a web developer with 10 years' experience of PHP, javascript, HTML and CSS. The past year has seen a shift for me toward a **user-centered approach to development and design**, with a greater emphasis on providing usefulness and usability in web design.
+I am a web developer with 10 years' experience of PHP, javascript, HTML and CSS. The past year has seen a shift for me toward a **user-centred approach to development and design**, with a greater emphasis on providing usefulness and usability in web design.
 
-The past six months in particular have seen me working in a **part-time UX capacity**, alongside my frontend development role. This has given me the chance to participate in planning a UX strategy, writing blog posts about user-centered design (see [blogs.kent.ac.uk/webdev/category/user-centered-services/](http://blogs.kent.ac.uk/webdev/category/user-centered-services/)), and starting to build a UX website.
+The past six months in particular have seen me working in a **part-time UX capacity**, alongside my frontend development role. This has given me the chance to participate in planning a UX strategy, writing blog posts about user-centred design (see [blogs.kent.ac.uk/webdev/category/user-centered-services/](http://blogs.kent.ac.uk/webdev/category/user-centered-services/)), and starting to build a UX website.
 
 Recent projects have also given me the chance to contribute to UX processes such as **persona development**, **sketching**, **prototyping**, **need-finding**, **user-testing**, **data analysis** and **user journeys**.
 
