@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Crimson+Text);
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
@@ -945,13 +947,27 @@ body {
   height: 100%;
 }
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+  font-family: 'Crimson Text', "Times New Roman", Times, serif;
+  letter-spacing: 0.01rem;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 24px;
   line-height: 1.5;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: rgba(0, 0, 0, 0.8);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-header,
+.site-footer {
+  font-family: 'Open Sans', sans-serif;
+  color: #000;
 }
 a {
   color: #000;
@@ -983,6 +999,9 @@ a:visited {
 }
 /* Layout Styles */
 /* ----------------------------------------------------------*/
+.container-fluid {
+  padding: 0;
+}
 /* Site header */
 .site-header {
   border-top: 5px solid #ff0000;
@@ -1023,7 +1042,7 @@ a:visited {
   border-top: 1px solid #ff0000;
   padding: 30px 0;
   background-color: #fcfcfc;
-  font-size: 80%;
+  font-size: 70%;
 }
 .site-footer a {
   border-bottom: none;
@@ -1137,21 +1156,21 @@ a:visited {
   margin: 40px 0 0 0;
 }
 h1 {
-  font-size: 26px;
+  font-size: 1.618em;
   margin: 10px 0 0 0;
   font-weight: bold;
 }
 .post-content h2 {
-  font-size: 24px;
+  font-size: 1.32em;
   font-weight: bold;
 }
 .post-content h3 {
-  font-size: 22px;
-  font-weight: 200;
+  font-size: 1em;
+  font-weight: 400;
   font-style: italic;
 }
 .post-content h4 {
-  font-size: 20px;
+  font-size: 1em;
   font-weight: 200;
 }
 .post-content blockquote {
@@ -1184,7 +1203,7 @@ h1 {
   }
   .site-nav .menu-icon {
     display: block;
-    font-size: 24px;
+    font-size: 1em;
     color: #505050;
     float: right;
     width: 36px;

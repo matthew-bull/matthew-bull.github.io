@@ -3,9 +3,9 @@ layout: page
 title: CV
 ---
 
-## UX / DESIGN EXPERIENCE
+## UX / DESIGN
 
-- **UX role** combined with a frontend development role in my team since early 2014.
+- **Combined UX and frontend developer role** since early 2014.
 - **Discovery phase**. User interviews, persona development, storyboarding.
 - **Alpha phase**. Simple wireframing and sketching (a pencil and paper are the most important tools!) Photoshop, Pixelmator, building markup quickly with Bootstrap and CSS3+Less.
 - **User testing**. Assisted in both formal and guerrilla user testing.
@@ -15,19 +15,19 @@ title: CV
 
 ## UX TRAINING & COURSES
 
-- *Creation of Artifacts in Society*. Coursera course (from the University of Pennsylvania) on product design processes. Distinction (>90%). Certificate at [{{ site.url }}/coursera-design.pdf]({{ site.url }}/coursera-design.pdf).
-- *Human-Computer Interaction*. Coursera course. University of California, San Diego. Current.
-- *Agile Development and User Experience: Integrating user experience best practices into Agile or Lean processes*. Nielsen Norman Usability Week, London, June 4 2014. See [www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/) for further details.
-- Certified Agile Scrum Master.
+- **Creation of Artifacts in Society**. Coursera course (from the University of Pennsylvania) on product design processes. Distinction (>90%). Certificate at [{{ site.url }}/coursera-design.pdf]({{ site.url }}/coursera-design.pdf).
+- **Human-Computer Interaction**. Coursera course. University of California, San Diego. Current.
+- **Agile Development and User Experience**. Integrating user experience best practices into Agile or Lean processes. Nielsen Norman Usability Week, London, June 4 2014. See [www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/) for further details.
+- **Certified Agile Scrum Master**.
 
-## DEVELOPMENT EXPERIENCE
+## DEVELOPMENT
 
-- HTML5, CSS3 + less, PHP, Bootstrap 3, Device agnostic / mobile first development. Wordpress development.
-- jquery, backbone, nodejs, grunt, composer, bower.
-- XML and JSON API web services.
-- PHPUnit, Selenium. Linux. Vagrant virtual environments. Capistrano deployment scripts.
+- **Basics**. HTML5, CSS3 + less, PHP.
+- **Tools & frameworks**. jquery, backbone, nodejs, grunt, bower, composer. Bootstrap 3. Wordpress development.
+- **Web services**. XML and JSON API web services.
+- **Testing & deployment**. PHPUnit, Selenium. Linux. Vagrant virtual environments. Capistrano deployment scripts.
 
-## EMPLOYMENT EXPERIENCE
+## EMPLOYMENT
 
 - **1998 - 2000**. L&H Speech Products, Belgium. Language technologist and perl/shell programmer.
 - **2001 - 2002**. LexiQuest, Paris. Language technologist and Java coder.
