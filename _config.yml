@@ -4,6 +4,7 @@ email: bull.matthew@gmail.com
 description: "Matthew Bull is a web developer with 10 years' experience of PHP development, and recent experience of UX development and design."
 baseurl: ""
 url: "https://matthew-bull.github.io"
+humanurl: "matthew-bull.github.io"
 
 # Build settings
 markdown: kramdown

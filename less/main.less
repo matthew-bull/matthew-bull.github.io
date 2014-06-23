@@ -57,7 +57,7 @@ a:visited { color: #000; }
 }
 
 .site-header a { text-decoration: none; border: none;}
-.site-header a:hover   { text-decoration: underline; border: none;}
+.site-header a:hover   { text-decoration: none; border-bottom: 1px solid #ff0000;}
 
 .site-title,
 .site-title:hover,
@@ -78,9 +78,12 @@ a:visited { color: #000; }
 
 .site-nav .menu-icon { display: none; }
 
-.site-nav .page-link {
-  margin-left: 20px;
-  color: #000;
+.site-nav {
+  .page-link {
+    margin-left: 20px;
+    color: #000;
+    font-size: 1.2em;
+  }
 }
 
 /* Site footer */

@@ -40,19 +40,26 @@ A new theme had been evolving in a number of directions, and there was a need to
 
 ## UX courses and training
 
-*Creation of Artifacts in Society*. Coursera course (from the University of Pennsylvania) on product design processes. See [coursera.org/course/design](https://www.coursera.org/course/design). This course focused on physical product design. It taught me how to go through need-finding processes, prototyping, testing, alpha-beta development and potential manufacture. I received a distinction (>90%) and have a certificate at [{{ site.url }}/coursera-design.pdf]({{ site.url }}/coursera-design.pdf). My project blog is at [matthew-bull.tumblr.com](http://matthew-bull.tumblr.com/)
+**Creation of Artifacts in Society**. Coursera course (from the University of Pennsylvania) on product design processes. See [coursera.org/course/design](https://www.coursera.org/course/design). This course focused on physical product design. It taught me how to go through need-finding processes, prototyping, testing, alpha-beta development and potential manufacture. I received a distinction (>90%) and have a certificate at [{{ site.humanurl }}/coursera-design.pdf]({{ site.url }}/coursera-design.pdf). My project blog is at [matthew-bull.tumblr.com](http://matthew-bull.tumblr.com/)
 
-*Human-Computer Interaction*. Coursera course. University of California, San Diego. See [coursera.org/course/hciucsd](https://www.coursera.org/course/hciucsd). I am just starting this course. It focuses on web-based user experience development processes: need-finding, sketching, rapid prototyping, wireframing, user testing, and visual design principles.
+**Human-Computer Interaction**. Coursera course. University of California, San Diego. See [coursera.org/course/hciucsd](https://www.coursera.org/course/hciucsd). I am just starting this course. It focuses on web-based user experience development processes: need-finding, sketching, rapid prototyping, wireframing, user testing, and visual design principles.
 
-*Agile Development and User Experience: Integrating user experience best practices into Agile or Lean processes*. Nielsen Norman Usability Week, London, June 4 2014. See [www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/) for further details. Passed the NN/g course exam with 86%. Certificate pending.
+**Agile Development and User Experience: Integrating user experience best practices into Agile or Lean processes**. Nielsen Norman Usability Week, London, June 4 2014. See [www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/) for further details. Passed the NN/g course exam with 86%. Certificate pending.
 
 ## Resources and links
 
+### Websites
 - [smashingmagazine.com](http://www.smashingmagazine.com/). A great resource for UX and frontend developers.
+- [medium.com](http://medium.com). Where design meets needs.
+- [designmuseum.org](http://designmuseum.org). Not so much a great website as a great resource in the Real World. I think it's important to understand the role of design more broadly in society if you're going to understand what makes a website work for people.
+
+### Books
 - Design as Art by Bruno Munari. A classic book about design.
 - The Shape of Design. Frank Chimero. A beautiful book which looks at movement, audience, and culture in design.
 - The Language of Things. Deyan Sudjic. A look at our relationship with objects and design.
-- Going to the Design Museum ([designmuseum.org](http://designmuseum.org)) and other galleries and exhibitions from time to time. I think it's important to understand the role of design more broadly in society if you're going to understand what makes a website work for people.
-- My favourite design object is a pencil. My favourite website is [medium.com](http://medium.com).
-- The source code for my CV and this page are available at [https://github.com/matthew-bull/matthew-bull.github.io](https://github.com/matthew-bull/matthew-bull.github.io).
 
+### Links
+- The source code for my CV and this page are available at [github.com/matthew-bull/matthew-bull.github.io](https://github.com/matthew-bull/matthew-bull.github.io).
+- I have personal photography and design blogs at [gnozu.tumblr.com](http://gnozu.tumblr.com/) and [matthewbull.vsco.co](http://matthewbull.vsco.co/)
+
+My favourite design object is a pencil.

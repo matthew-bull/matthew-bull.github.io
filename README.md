@@ -1,13 +1,8 @@
-matthew-bull.github.io
-======================
+## matthew-bull.github.io
 
-This site is built using [jekyll](http://jekyllrb.com/)
+Matthew Bull's CV site.
 
-Installation:
+This site is built using [jekyll](http://jekyllrb.com/).
 
-1. `npm install -g grunt-cli`
-
-2. `npm install`
-
-3. `grunt`
+It uses [Bootstrap 3](http://getbootstrap.com/) for a basic grid layout. Compile and minify the less files using [grunt](http://gruntjs.com/).
 
