@@ -6,7 +6,7 @@ permalink: /about/
 
 ## What can I bring to the University of Kent?
 
-This role is advertised as being part of a UX virtual team. I would be able to bring a **bridge between user-centred design and frontend development skills**.
+The role of UX Developer is advertised as being part of a UX virtual team. I would be able to bring a **bridge between user-centred design and frontend development skills**.
 
 I am able to understand design with a developer's brain, while viewing development with a designer's eye.
 
