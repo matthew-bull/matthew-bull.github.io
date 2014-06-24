@@ -38,7 +38,7 @@ I have recently helped establish a **pattern library** for a new University of K
 
 A new theme had been evolving in a number of directions, and there was a need to consolidate elements of these into a single, coherent library. The library will act as a developer resource, while at a higher level helping define how the new theme meets the needs of the Kent University brand, the various business stakeholders, and users of the website.
 
-## UX courses and training
+### UX courses and training
 
 I have attended a number of UX training courses. In particular I found the Coursera course **Creation of Artifacts in Society** (see [coursera.org/course/design](https://www.coursera.org/course/design)) started me on the path to understanding techniques in user-focussed product design. My project blog is at [matthew-bull.tumblr.com](http://matthew-bull.tumblr.com/)
 
