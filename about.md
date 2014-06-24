@@ -20,17 +20,17 @@ The ability to **learn from others** in the UX team is something I look forward 
 
 I am a web developer with 10 years' experience of PHP, javascript, HTML and CSS. The past year has seen a shift for me toward a **user-centred approach to development and design**, with a greater emphasis on providing usefulness and usability in web design.
 
-The past six months in particular have seen me working in a **part-time UX capacity**, alongside my frontend development role. This has given me the chance to participate in planning a UX strategy, writing blog posts about user-centred design (see [blogs.kent.ac.uk/webdev/category/user-centered-services/](http://blogs.kent.ac.uk/webdev/category/user-centered-services/)), and starting to build a UX website.
+The past six months in particular have seen me working in a **part-time UX capacity**, alongside my frontend development role. This has given me the chance to participate in planning a UX strategy, writing blog posts about user-centred design (see [blogs.kent.ac.uk/webdev/category/user-centered-services/](http://blogs.kent.ac.uk/webdev/category/user-centered-services/)), and starting to build a UX strategy and resource website.
 
 Recent projects have also given me the chance to contribute to UX processes such as **need-finding**, **persona development**, **sketching**, **wireframing**, **prototyping**, **user-testing**, **data analysis** and **user journey analysis**.
 
 ### Mobile first
 
-Device agnostic design is now a standard for all work I am involved in. I have been using frameworks such as Boostrap 3 to design device agnostic sites from the ground up.
+Device agnostic design is now a standard for all work I am involved in. I have been using frameworks such as Boostrap 3 to design device agnostic sites from the ground up. Device agnostic design is a challenge for traditional UX approaches such as wireframing, and I have experience building early rapid prototypes directly in HTML.
 
 ### Agile
 
-I have worked in an **Agile Scrum development team** on a broad range of mobile-first PHP and javascript based systems. For example [github.com/unikent/programmes-plant](). I am a Certified Scrum Master.
+I have worked in an **Agile Scrum development team** on a broad range of mobile-first PHP and javascript based systems. For example [github.com/unikent/of-course](). I am a Certified Scrum Master.
 
 ### Patterns
 
