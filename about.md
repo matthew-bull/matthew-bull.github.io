@@ -10,7 +10,7 @@ The role of UX Developer is advertised as being part of a UX virtual team. I wou
 
 I am able to understand design with a developer's brain, while viewing development with a designer's eye.
 
-More recently I have become interested in implementing **Lean UX processes**. These follow the ideas of rapid prototyping, fail-fast development, gaining frequent feedback from users, with a very clear focus on outcomes rather than features.
+More recently I have become interested in implementing **Lean UX processes**. These follow the ideas of rapid prototyping, fail-fast development, with frequent feedback from user-testing, and a very clear focus on outcomes rather than features.
 
 My hope is to be able to bring many Lean UX concepts both to the UX virtual team, and to other development teams in Information Services. I feel my background in development will help in conveying and moulding UX best practice to the needs of developers.
 
@@ -22,7 +22,7 @@ I am a web developer with 10 years' experience of PHP, javascript, HTML and CSS.
 
 The past six months in particular have seen me working in a **part-time UX capacity**, alongside my frontend development role. This has given me the chance to participate in planning a UX strategy, writing blog posts about user-centred design (see [blogs.kent.ac.uk/webdev/category/user-centered-services/](http://blogs.kent.ac.uk/webdev/category/user-centered-services/)), and starting to build a UX website.
 
-Recent projects have also given me the chance to contribute to UX processes such as **persona development**, **sketching**, **prototyping**, **need-finding**, **user-testing**, **data analysis** and **user journeys**.
+Recent projects have also given me the chance to contribute to UX processes such as **need-finding**, **persona development**, **sketching**, **wireframing**, **prototyping**, **user-testing**, **data analysis** and **user journey analysis**.
 
 ### Mobile first
 
@@ -34,7 +34,7 @@ I have worked in an **Agile Scrum development team** on a broad range of mobile-
 
 ### Patterns
 
-I have more recently instigated a working **pattern library** for a new University of Kent web theme. See [github.com/unikent/user-experience](https://github.com/unikent/user-experience).
+I have recently helped establish a living **pattern library** for a new University of Kent web theme. See [github.com/unikent/user-experience](https://github.com/unikent/user-experience).
 
 A new theme had been evolving in a number of directions, and there was a need to consolidate elements of these into a single, coherent library. The library will act as a developer resource, while at a higher level helping define how the new theme meets the needs of the Kent University brand, the various business stakeholders, and users of the website.
 
@@ -62,4 +62,5 @@ A new theme had been evolving in a number of directions, and there was a need to
 - The source code for my CV and this page are available at [github.com/matthew-bull/matthew-bull.github.io](https://github.com/matthew-bull/matthew-bull.github.io).
 - I have personal photography and design blogs at [gnozu.tumblr.com](http://gnozu.tumblr.com/) and [matthewbull.vsco.co](http://matthewbull.vsco.co/)
 
-My favourite design object is a pencil.
+My favourite three design objects are a pencil, a paperclip, and a simple keyring.
+

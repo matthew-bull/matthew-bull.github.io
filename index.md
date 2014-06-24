@@ -11,7 +11,7 @@ title: CV
 - **User testing**. Assisted in both formal and guerrilla user testing.
 - **Pattern libraries**. Helped form a work-in-progress pattern library for a new University of Kent web theme. See [github.com/unikent/user-experience](https://github.com/unikent/user-experience).
 - **Analysis**. Experience with simple A/B testing and analysis of user journeys in Google Analytics.
-- **Accessibility**. Implementing WCAG 2.0. Google web accessibility course, see [webaccessibility.withgoogle.com/](https://webaccessibility.withgoogle.com/)
+- **Accessibility**. Implementing WCAG 2.0. Followed Google web accessibility course, see [webaccessibility.withgoogle.com/](https://webaccessibility.withgoogle.com/)
 
 ## UX TRAINING & COURSES
 
