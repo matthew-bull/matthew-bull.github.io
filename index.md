@@ -23,8 +23,7 @@ title: CV
 
 ## DEVELOPMENT
 
-- **Basics**. HTML5, CSS3 + less, PHP.
-- **Tools & frameworks**. jquery, backbone, handlebars, nodejs, grunt, bower, composer. Bootstrap 3. Wordpress development.
+- **Tools & frameworks**. HTML5, CSS3 + less, PHP. jquery, backbone, handlebars, nodejs. Grunt, bower, composer. Bootstrap 3. Wordpress development.
 - **Web services**. XML and JSON API web services.
 - **Testing & deployment**. PHPUnit, Selenium. Cross-browser testing. Linux. Vagrant virtual environments. Capistrano deployment scripts.
 
