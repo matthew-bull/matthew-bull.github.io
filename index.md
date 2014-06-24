@@ -18,6 +18,7 @@ title: CV
 - **Creation of Artifacts in Society**. Coursera course (from the University of Pennsylvania) on product design processes. Distinction (>90%). Certificate at [{{ site.url }}/coursera-design.pdf]({{ site.url }}/coursera-design.pdf).
 - **Human-Computer Interaction**. Coursera course. University of California, San Diego. Current.
 - **Agile Development and User Experience**. Integrating user experience best practices into Agile or Lean processes. Nielsen Norman Usability Week, London, June 4 2014. See [www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/). Passed the course exam with 86%. Certificate pending.
+- **UXPA14**. Will be attending the User Experience Professionals' Association conference 2014.
 - **Certified Agile Scrum Master**.
 
 ## DEVELOPMENT

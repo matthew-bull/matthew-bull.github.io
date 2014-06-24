@@ -46,6 +46,8 @@ A new theme had been evolving in a number of directions, and there was a need to
 
 **Agile Development and User Experience: Integrating user experience best practices into Agile or Lean processes**. Nielsen Norman Usability Week, London, June 4 2014. See [www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/) for further details. Passed the NN/g course exam with 86%. Certificate pending.
 
+**UXPA14**. Will be attending the User Experience Professionals' Association conference 2014.
+
 ## Resources and links
 
 ### Websites
