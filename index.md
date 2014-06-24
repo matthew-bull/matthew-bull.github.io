@@ -32,7 +32,7 @@ title: CV
 - **1998 - 2000**. L&H Speech Products, Belgium. Language technologist and perl/shell programmer.
 - **2001 - 2002**. LexiQuest, Paris. Language technologist and Java coder.
 - **2004 - 2006**. Smart EPOS Ltd. PHP/MySQL web developer.
-- **2007 - current**. University of Kent - Information Services Web Development Team. Web developer. Part-time UX developer.
+- **2007 - current**. University of Kent Information Services Web Team. Web/UX developer.
 
 ## EDUCATION
 
