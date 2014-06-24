@@ -34,19 +34,17 @@ I have worked in an **Agile Scrum development team** on a broad range of mobile-
 
 ### Patterns
 
-I have recently helped establish a living **pattern library** for a new University of Kent web theme. See [github.com/unikent/user-experience](https://github.com/unikent/user-experience).
+I have recently helped establish a **pattern library** for a new University of Kent web theme. See [github.com/unikent/user-experience](https://github.com/unikent/user-experience).
 
 A new theme had been evolving in a number of directions, and there was a need to consolidate elements of these into a single, coherent library. The library will act as a developer resource, while at a higher level helping define how the new theme meets the needs of the Kent University brand, the various business stakeholders, and users of the website.
 
 ## UX courses and training
 
-**Creation of Artifacts in Society**. Coursera course (from the University of Pennsylvania) on product design processes. See [coursera.org/course/design](https://www.coursera.org/course/design). This course focused on physical product design. It taught me how to go through need-finding processes, prototyping, testing, alpha-beta development and potential manufacture. I received a distinction (>90%) and have a certificate at [{{ site.humanurl }}/coursera-design.pdf]({{ site.url }}/coursera-design.pdf). My project blog is at [matthew-bull.tumblr.com](http://matthew-bull.tumblr.com/)
+I have attended a number of UX training courses. In particular I found the Coursera course **Creation of Artifacts in Society** (see [coursera.org/course/design](https://www.coursera.org/course/design)) started me on the path to understanding techniques in user-focussed product design. My project blog is at [matthew-bull.tumblr.com](http://matthew-bull.tumblr.com/)
 
-**Human-Computer Interaction**. Coursera course. University of California, San Diego. See [coursera.org/course/hciucsd](https://www.coursera.org/course/hciucsd). I am just starting this course. It focuses on web-based user experience development processes: need-finding, sketching, rapid prototyping, wireframing, user testing, and visual design principles.
+I'm also currently taking another Coursera course **Human-Computer Interaction**, which focuses on web-based user experience development processes: need-finding, sketching, rapid prototyping, wireframing, user testing, and visual design principles.
 
-**Agile Development and User Experience: Integrating user experience best practices into Agile or Lean processes**. Nielsen Norman Usability Week, London, June 4 2014. See [www.nngroup.com/courses/agile-development-and-user-experience/](http://www.nngroup.com/courses/agile-development-and-user-experience/) for further details. Passed the NN/g course exam with 86%. Certificate pending.
-
-**UXPA14**. Will be attending the User Experience Professionals' Association conference 2014.
+Other events include an Agile Development and User Experience workshop at the Nielsen Norman Usability Week 2014. I will be attending the User Experience Professionals' Association conference 2014.
 
 ## Resources and links
 
